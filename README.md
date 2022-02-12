@@ -1,14 +1,5 @@
 # Dungeon Rooms Mod
 
-<p align="center">
-  <a href="https://github.com/Quantizr/DungeonRoomsMod/releases/latest" target="_blank">
-    <img alt="version" src="" />
-  </a>
-  <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html" target="_blank">
-    <img alt="mcversion" src="" />
-  </a>
-</p>
-
 ### What it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
 
