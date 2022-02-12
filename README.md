@@ -10,7 +10,7 @@ Alternatively, you can also view images of the secret locations in the DSG Disco
 
 A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons!
 
-This side mod can be downloaded [[HERE]](https://download1084.mediafire.com/09wxyntju7ug/hqbd3w9fmu2710c/Skyblock_Dungeon_Secret_Syncer.jar)
+This side mod can be downloaded [HERE](https://www.mediafire.com/file/hqbd3w9fmu2710c/Skyblock_Dungeon_Secret_Syncer.jar/file)
 
 ### Why is this useful?
 For those who haven't memorized secrets, trying to find secrets takes forever, especially when you have to spend a ton of time searching through DSG channels for the right room. This mod makes it easy as you can immediately see where a secret is.
