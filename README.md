@@ -8,7 +8,7 @@ Alternatively, you can also view images of the secret locations in the DSG Disco
 
 ### Dungeon Secrets Syncer:
 
-A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons!
+A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons.
 
 This side mod can be downloaded [HERE](https://www.mediafire.com/file/hqbd3w9fmu2710c/Skyblock_Dungeon_Secret_Syncer.jar/file)
 
