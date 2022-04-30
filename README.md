@@ -10,7 +10,7 @@ Alternatively, you can also view images of the secret locations in the DSG Disco
 
 A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons.
 
-This side mod can be downloaded [HERE](https://www.mediafire.com/file/n4ki65x4jq8xjro/Dungeon_Rooms+SecretSync-3.3.1.jar/file)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/966907923928334396/970022479798075482/DungeonRoomsSecretSync-3.3.1.jar)
 
 ### Why is this useful?
 For those who haven't memorized secrets, trying to find secrets takes forever, especially when you have to spend a ton of time searching through DSG channels for the right room. This mod makes it easy as you can immediately see where a secret is.
@@ -19,10 +19,6 @@ For those who haven't memorized secrets, trying to find secrets takes forever, e
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely **not bannable**, but as with all mods, it is use at your own risk.
 
 Long Answer: https://quantizr.github.io/posts/is-it-bannable/
-
-
-### Discord:
-[![Discord](https://img.shields.io/discord/804143990869590066?color=%239f00ff&label=Discord&style=for-the-badge)](https://discord.gg/7B5RbsArYK)
 
 
 ### Hotkeys:
