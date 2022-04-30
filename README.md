@@ -10,7 +10,7 @@ Alternatively, you can also view images of the secret locations in the DSG Disco
 
 A side mod of DRM, for those who find themselves repeating the same secrets as party members, this mod helps to sync and organize parties and the way they play dungeons.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/966907923928334396/970022479798075482/DungeonRoomsSecretSync-3.3.1.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/966907923928334396/970023352049750076/DungeonRoomsSecretSyncer-3.3.1.jar)
 
 ### Why is this useful?
 For those who haven't memorized secrets, trying to find secrets takes forever, especially when you have to spend a ton of time searching through DSG channels for the right room. This mod makes it easy as you can immediately see where a secret is.
